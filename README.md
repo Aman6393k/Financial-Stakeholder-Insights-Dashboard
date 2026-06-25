@@ -77,7 +77,7 @@ The dataset contains structured financial and stakeholder-related data, includin
 
 ## 🔗 Live Dashboard
 
-👉 *[Add your Tableau Public link here]*
+👉 *[https://public.tableau.com/app/profile/aman.kashyap4097/viz/StakeholderInsightsandPerformanceDashboard_17737479880090/StakeholderInsightsandPerformanceDashboard]*
 
 ---
 

@@ -109,9 +109,9 @@ Financial-Stakeholder-Insights-Dashboard/
 │
 ├── README.md
 ├── dashboard.png
-├── dataset.csv
+├── Dataset.xlsx
 ├── Stakeholder Insights and Performance Dashboard.twbx
-├── insights.md
+
 ```
 
 ---

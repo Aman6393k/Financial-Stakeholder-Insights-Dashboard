@@ -71,6 +71,7 @@ The dataset contains structured financial and stakeholder-related data, includin
 ## 📷 Dashboard Preview
 
 ![Dashboard](dashboard.png)
+<img width="1247" height="775" alt="Dashboard" src="https://github.com/user-attachments/assets/40484489-92b5-4f48-8f11-938cb30ab106" />
 
 ---
 

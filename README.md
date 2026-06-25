@@ -30,7 +30,7 @@ The goal of this project is to:
 
 The dataset contains structured financial and stakeholder-related data, including premiums, insurers, cost ratios, demographics, and asset details.
 
-🔗 **Dataset Link:** *(https://github.com/Aman6393k/Financial-Stakeholder-Insights-Dashboard/blob/main/Finance%20Record%20Data%20set.xlsx)*
+🔗 **Dataset Link:** * <a href="https://github.com/Aman6393k/Financial-Stakeholder-Insights-Dashboard/blob/main/Finance%20Record%20Data%20set.xlsx"*
 
 ---
 
